@@ -1,0 +1,6 @@
+Didelphis_virginiana
+Palawanosorex_muscorum
+Tadarida_brasiliensis 
+Sciurus_carolinensis 
+Vulpes_vulpes
+Dasypus_novemcinctus
